@@ -1,0 +1,11 @@
+Name of QuantLet: crypto_loan_plots
+
+Published in: Crypto loans
+
+Description: The numerical results of the crypto loan paper. 
+
+Keywords: p2p, lending, crypto, CP2P, interest rate, borrowing rate
+
+Author: Francis Liu
+
+Submitted: Sun, Feb 16 2025 by Francis Liu
